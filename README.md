@@ -1,4 +1,4 @@
-                                                                   About the project:
+About the project:
 
 The college result analysis project aims to develop a comprehensive system for evaluating academic performance data within a college. 
 Its primary objective is to analyze examination results, identify patterns, and offer valuable insights. 
